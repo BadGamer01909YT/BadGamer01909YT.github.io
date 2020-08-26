@@ -1,0 +1,10 @@
+(function(props,context) {
+        Core.utils.renderBootstrap({
+          elId:'bs-9',
+          componentName:'LazyVideo',
+          props:props,
+          context:context,
+          contextKey:'context-bs-1',
+          radpack:false
+        });
+      })({"data-ux":"EmbedVideo","containerStyle":{"@sm":{"paddingBottom":"50%"}},"style":{"order":-1},"rawUrl":"https:\u002F\u002Fwww.youtube.com\u002Fwatch?v=mwt4zN7pdKQ","embedUrl":"\u002F\u002Fyoutube.com\u002Fembed\u002Fmwt4zN7pdKQ?rel=0&showinfo=0&start=0","width":"","height":"","thumbnail":"","vimeoAccountType":"","vimeoId":"","data-aid":"VIDEO_VIDEO_RENDERED0","data-field-id":"cards.videoProperties","data-field-route":"\u002Fcard\u002F0\u002Fvideo","widgetId":"20887e05-d4c1-41e8-95b3-898d17acc76d","section":"alt","category":"accent","locale":"en-US","renderMode":"PUBLISH"},{"widgetId":"20887e05-d4c1-41e8-95b3-898d17acc76d","widgetType":"VIDEO","widgetPreset":"video4","order":1,"section":"alt","category":"accent","fontSize":"medium","fontFamily":"alternate","group":"Content","groupType":"Card","websiteThemeOverrides":{},"widgetThemeOverrides":{}});
